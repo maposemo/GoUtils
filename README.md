@@ -1,3 +1,4 @@
-# GoUtils
+# GoUtils List
 
-1. roundrobin
+1. RoundRobin
+2. Dispatcher
