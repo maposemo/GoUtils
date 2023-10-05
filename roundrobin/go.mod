@@ -1,4 +1,4 @@
-module roundrobin
+module GoUtils/roundrobin
 
 go 1.20
 
