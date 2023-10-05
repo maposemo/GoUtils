@@ -1,3 +1,3 @@
-module GoUtils/dispatcher
-  
+module dispatcher
+
 go 1.20
